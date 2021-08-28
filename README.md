@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @iigorcunha, I'm a software developer with experience as administrator and knowledge in web development. I'm living in Toronto/ON 🇨🇦
-- 👀 I’m interested in Web development, with knowledge in javascript stacks as Node.js, React, React Native. Also know how to programming in dart with flutter.
-- 💞️ I’m looking for a position to collaborate with new features to make customers life easier.
-- 📫 How to reach me:
-  Linkedin: @iigorcunha
-  Email: igorcesarcunha@gmail.com
+👋  A self-motivated web developer with 2 years of code experience, also 5+ years as an IT manager. A passionate developer focused on
+    Javascript, gained strong knowledge in the language, building APIs and front-end applications with ReactJS and React Native.
+    Involved with Javascript community helping to solve issues of open-source projects. Very accomplished with an agile environment.
+    
+📍  Toronto/CA 🇨🇦
+
+📫  How to reach me:
+    Linkedin: @iigorcunha
+    Email: igorcesarcunha@gmail.com
 
